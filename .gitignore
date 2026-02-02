@@ -1,0 +1,35 @@
+# ===== Java =====
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# ===== Eclipse =====
+.metadata/
+.recommenders/
+.settings/
+.project
+.classpath
+.factorypath
+.apt_generated/
+.apt_generated_tests/
+.springBeans
+.externalToolBuilders/
+
+# ===== Build output =====
+bin/
+target/
+out/
+
+# ===== OS junk =====
+.DS_Store
+Thumbs.db
+
+# ===== Logs =====
+*.log
+
+# ===== IDE local files =====
+*.swp
+*.tmp
+*.bak
